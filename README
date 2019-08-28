@@ -1,0 +1,13 @@
+roller-chain-dataset-
+   
+   -part_real: 真实的数据集，论文中是224 Real
+   
+      -train: 训练集
+      -val: 验证集
+      -events.out.tfevents.1566171513.ce1d04c05fdf: tensorboard下打开，可以看到相应的训练loss图等
+   
+   -part_v: 真实的数据集，论文中是224 Virtual
+   
+      -train: 训练集
+      -val: 验证集
+      -events.out.tfevents.1566170656.9a5df82c73ef: tensorboard下打开，可以看到相应的训练loss图等
